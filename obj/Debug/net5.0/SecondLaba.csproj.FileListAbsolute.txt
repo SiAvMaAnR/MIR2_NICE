@@ -1,0 +1,16 @@
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\bin\Debug\net5.0\SecondLaba.exe
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\bin\Debug\net5.0\SecondLaba.deps.json
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\bin\Debug\net5.0\SecondLaba.runtimeconfig.json
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\bin\Debug\net5.0\SecondLaba.runtimeconfig.dev.json
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\bin\Debug\net5.0\SecondLaba.dll
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\bin\Debug\net5.0\ref\SecondLaba.dll
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\bin\Debug\net5.0\SecondLaba.pdb
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.csproj.AssemblyReference.cache
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.AssemblyInfoInputs.cache
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.AssemblyInfo.cs
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.csproj.CoreCompileInputs.cache
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.dll
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\ref\SecondLaba.dll
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.pdb
+C:\Users\dunduk\Desktop\Laba2\SecondLaba\obj\Debug\net5.0\SecondLaba.genruntimeconfig.cache
